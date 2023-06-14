@@ -1,0 +1,74 @@
+body {
+    font-family:  Gasoek One, Arimo, Helvetica, Arial, sans-serif;
+    margin: 0;
+    padding: 0; 
+    overflow-x: hidden;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+h2 {
+    font-family: Gasoek One, Arimo, Helvetica, Arial, sans-serif;
+    font-size: 20pt;
+    color: #B57336;
+    text-transform: lowercase;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+h3 {
+    font-family: Gasoek One, Arimo, Helvetica, Arial, sans-serif;
+    font-size: 50pt;
+    color: #B57336;
+    text-transform: uppercase;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+hr {
+    border: solid #2A6953;
+    background-color: #2A6953;
+    height: 2px;
+}
+
+h5 {
+    font-family: Gasoek One, Arimo, Helvetica, Arial, sans-serif;
+    font-size: 50pt;
+    color: #2A6953;
+    text-transform: uppercase;
+    margin-bottom: 0px;
+}
+
+h4 {
+    font-family: Gasoek One, Arimo, Helvetica, Arial, sans-serif;
+    font-size: 155pt;
+    color: #E30063;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    line-height: 20pt;
+    text-transform: uppercase;
+    align-self: center;
+}
+
+#content-box {
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+html {
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+    background-color:#BECBFF;
+    }
+
+.has-small-font-size {
+    font-size: 16px;
+}
+
+.has-normal-font-size {
+    font-size: 16px;
+}
